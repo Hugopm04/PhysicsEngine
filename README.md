@@ -5,9 +5,9 @@ fields — Newton's law of universal gravitation, Coulomb's law and the Lorentz 
 with a movable camera.
 
 > **Written by me, by hand, in 2021–2023.** It began as my research project in the final year of high school
-> (2º de Bachillerato, Colegio Marista La Inmaculada, Granada, 2021/22), across Mathematics II, Physics and ICT, and
-> was written up as a paper for Spain's XXXIV *Certamen Jóvenes Investigadores* (2023). The code and its comments
-> are in Spanish.
+> (2º de Bachillerato, Colegio Marista La Inmaculada, Granada, 2021/22), across Mathematics II, Physics and ICT. I
+> wrote it up as a research paper and presented it to Spain's XXXIV *Certamen Jóvenes Investigadores* (2023):
+> [docs/research-paper.pdf](docs/research-paper.pdf), in Spanish. The code and its comments are in Spanish too.
 
 ![Four bodies attracting each other, with trails and live readouts](docs/n-bodies.png)
 
